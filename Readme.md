@@ -51,6 +51,7 @@ Dedicado ao meu sobrinho, que pediu o jogo e forneceu a ideia inicial.
     └── KillerOpil-Escape.data # Arquivos de dados
 
 ## Contribuições
-Louiexz - Autor e Desenvolvedor do KillerOpil-Escape<br>
+
+[@Louiexz](https://github.com/Louiexz) - Autor e Desenvolvedor do KillerOpil-Escape<br>
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests.
