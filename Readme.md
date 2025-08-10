@@ -1,9 +1,9 @@
 # KillerOpil-Escape
 
-!["KillerOpil-Escape"]('KillerOpil-Escape.png')
-
 Jogo "KillerOpil-Escape" criado utilizando lua, no solar2d.
 Dedicado ao meu sobrinho, que pediu o jogo e forneceu a ideia inicial.
+
+![KillerOpil-Escape menu image](KillerOpil-Escape.png)
 
 ## Funcionalidades
 
@@ -24,7 +24,7 @@ Dedicado ao meu sobrinho, que pediu o jogo e forneceu a ideia inicial.
 
 1. Use de acordo com sua plataforma:
 
-    - Browser: https://louiexz.github.io/KillerOpil-Escape/
+    - Browser: https://luixx21.github.io/KillerOpil-Escape/
     - Windows x64: Em breve.
     - Linux x86_64: Em breve.
     - Apk: Em breve.
@@ -33,7 +33,7 @@ Dedicado ao meu sobrinho, que pediu o jogo e forneceu a ideia inicial.
 
 - Clone o repositório:
 
-        git clone https://github.com/Louiexz/KillerOpil-Escape.git
+        git clone https://github.com/Luixx21/KillerOpil-Escape.git
         cd KillerOpil-Escape
  
  - Execute o aplicativo:
